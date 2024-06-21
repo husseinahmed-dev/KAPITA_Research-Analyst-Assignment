@@ -27,4 +27,4 @@ The proposed app will use a microservices architecture deployed on Azure Kuberne
 ### Conclusion
 Addressing Iraq's housing crisis requires comprehensive solutions that meet immediate security needs and address long-term affordability and inclusivity challenges. Leveraging technology through the proposed mobile app can significantly improve the management and living conditions in residential compounds, contributing to a more equitable housing market in Iraq.
 
-![Example GIF]([https://raw.githubusercontent.com/exampleuser/example-repo/main/images/example.gif](https://github.com/husseinahmed-dev/KAPITA_Research-Analyst-Assignment/blob/main/1718807887307.gif))
+![Example GIF](https://raw.githubusercontent.com/husseinahmed-dev/KAPITA_Research-Analyst-Assignment/main/1718807887307.gif)
